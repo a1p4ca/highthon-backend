@@ -11,7 +11,7 @@ export default {
   }],
   schools: {
     0: {
-      name: '나태',
+      name: '나태 학교',
       tag: '귀차니즘 나태지옥 게으름뱅이',
       subscribers: 1358,
       graduates: 343,
@@ -46,7 +46,7 @@ export default {
     },
 
     1: {
-      name: '추락대',
+      name: '추락대 학교',
       tag: '하늘을달리다 도전 버킷리스트',
       subscribers: 5456,
       graduates: 2034,
@@ -99,7 +99,7 @@ export default {
     },
 
     2: {
-      name: '배고파',
+      name: '배고파 학교',
       tag: '먹방 전국맛집투어 내안의거지',
       subscribers: 19234,
       graduates: 3433,
@@ -152,7 +152,7 @@ export default {
     },
 
     3: {
-      name: '앱등이',
+      name: '앱등이 학교',
       tag: 'IOS 애플의노예',
       subscribers: 3457,
       graduates: 126,
@@ -205,7 +205,7 @@ export default {
     },
 
     4: {
-      name: '짠내투어',
+      name: '짠내투어 학교',
       tag: '여행에미치다 떠나자',
       subscribers: 3459,
       graduates: 453,
